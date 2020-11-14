@@ -1,0 +1,55 @@
+html,
+body {
+    height: 100%;
+    background-color: #EEEEEE;
+}
+
+#topnav {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
+/* section tag */
+
+
+/* Product car */
+
+
+/* 
+.card-deck {
+    padding: 20px 20px;
+} */
+
+.card-img-top {
+    /* border: 1px solid black; */
+    height: 180px;
+    /* height: 50%; */
+    /* width: 223px; */
+    /* width: 80%; */
+}
+
+#product_card {
+    /* width: 255px ; */
+    height: 357px;
+    /* margin-right: 5px; */
+    padding: 0.4rem;
+}
+
+.card {
+    /* border: 1px solid black; */
+    box-shadow: 1px 1px 3px 3px #B6B6B6;
+}
+
+#cart-but {
+    margin-right: -18px;
+}
+
+footer {
+    /* position: absolute; */
+    /* top: 100%; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
