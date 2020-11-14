@@ -25,7 +25,7 @@ include 'include/session.php';
     <header>
         <div class="card text-white bg-primary">
             <div class="card-body text-center">
-                <h1 class="card-title">Welcome</h1>
+                <h1 class="card-title">Welcome to my e-com</h1>
             </div>
 
         </div>
